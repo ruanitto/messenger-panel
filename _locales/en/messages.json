@@ -1,0 +1,12 @@
+{
+  "extensionName": {
+    "message": "Panel for Messenger™",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Easily access Messenger™ in a separate panel. Messenger™ does not endorse or sponsor this project.",
+    "description": "Description of the extension."
+  }
+
+}
